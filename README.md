@@ -1,1 +1,3 @@
 # Spaceship-Titanic
+
+Salut à tous ! après avoir pris un peu de niveau en machine learning, j'ai décidé de me lancer dans une compétition sur Kaggle. Le but des compétitions Kaggle est de permettre aux data scientist de tous les niveaux de s'exercer autour de problèmes parfois réels, souvent fictifs mais toujours intéressants. Ma première submission est donc autour du projet SpaceShip Titanic. Le but de ce projet est, à partir d'un ensemble de données d'entraîner un modèle de machine learning pour ensuite, le tester sur un data set où la target est manquante. La target est donc de savoir si un passager x a été transporté vers une nouvelle dimension ou non. Voilà je laisse ici le notebook que j'ai fais de A à Z pour cette compétition. Bonne lecture!
